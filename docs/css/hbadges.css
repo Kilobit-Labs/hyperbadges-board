@@ -1,0 +1,22 @@
+/* hbadges.css */
+/* Copyright 2020 Kilobit Labs Inc. */
+
+* {
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    background-color: #3b3b3b;
+    color: #d2d2d2;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    font-weight: 300;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+
